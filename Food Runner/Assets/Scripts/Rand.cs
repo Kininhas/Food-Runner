@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RandomNPCLEFT : MonoBehaviour
+public class Rand : MonoBehaviour
 {
     public float moveSpeed = 3f;
 

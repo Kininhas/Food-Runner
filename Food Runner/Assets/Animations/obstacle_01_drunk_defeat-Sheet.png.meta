@@ -1,31 +1,25 @@
 fileFormatVersion: 2
-guid: 4c273e50ea0e058488e03ce5e240b896
+guid: cc1e2b2f23367194592d8a6d582056ae
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1320727711999224410
-    second: obstacle_03_sewer-Sheet_0
+      213: -5770185255338840812
+    second: obstacle_01_drunk_defeat-Sheet_0
   - first:
-      213: 2672318455311475783
-    second: obstacle_03_sewer-Sheet_1
+      213: -8489239975566564191
+    second: obstacle_01_drunk_defeat-Sheet_1
   - first:
-      213: 7219882808032338920
-    second: obstacle_03_sewer-Sheet_2
+      213: -7172546627741234809
+    second: obstacle_01_drunk_defeat-Sheet_2
   - first:
-      213: 2271304592045827434
-    second: obstacle_03_sewer-Sheet_3
+      213: -5804612000944395449
+    second: obstacle_01_drunk_defeat-Sheet_3
   - first:
-      213: 4167052078325741033
-    second: obstacle_03_sewer-Sheet_4
+      213: 2721997169254549504
+    second: obstacle_01_drunk_defeat-Sheet_4
   - first:
-      213: 7396591735480620395
-    second: obstacle_03_sewer-Sheet_5
-  - first:
-      213: 6068428495043463395
-    second: obstacle_03_sewer-Sheet_6
-  - first:
-      213: -5424073686791144481
-    second: obstacle_03_sewer-Sheet_7
+      213: 7669523684726699437
+    second: obstacle_01_drunk_defeat-Sheet_5
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -116,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: obstacle_03_sewer-Sheet_0
+      name: obstacle_01_drunk_defeat-Sheet_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 32
-        height: 32
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a59549b425dbade0800000000000000
-      internalID: -1320727711999224410
+      spriteID: 41de45ff41f2cefa0800000000000000
+      internalID: -5770185255338840812
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: obstacle_03_sewer-Sheet_1
+      name: obstacle_01_drunk_defeat-Sheet_1
       rect:
         serializedVersion: 2
-        x: 32
+        x: 48
         y: 0
-        width: 32
-        height: 32
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -151,41 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 744af8ff97bf51520800000000000000
-      internalID: 2672318455311475783
+      spriteID: 1a42f4b5839203a80800000000000000
+      internalID: -8489239975566564191
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: obstacle_03_sewer-Sheet_2
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8e3a7bc492d223460800000000000000
-      internalID: 7219882808032338920
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: obstacle_03_sewer-Sheet_3
+      name: obstacle_01_drunk_defeat-Sheet_2
       rect:
         serializedVersion: 2
         x: 96
         y: 0
-        width: 32
-        height: 32
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,20 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a65ea991e7b458f10800000000000000
-      internalID: 2271304592045827434
+      spriteID: 789ce8608def57c90800000000000000
+      internalID: -7172546627741234809
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: obstacle_03_sewer-Sheet_4
+      name: obstacle_01_drunk_defeat-Sheet_3
       rect:
         serializedVersion: 2
-        x: 128
+        x: 144
         y: 0
-        width: 32
-        height: 32
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,41 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9e5b82989c754d930800000000000000
-      internalID: 4167052078325741033
+      spriteID: 74b6db8a320e17fa0800000000000000
+      internalID: -5804612000944395449
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: obstacle_03_sewer-Sheet_5
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b6599ed9ef8f5a660800000000000000
-      internalID: 7396591735480620395
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: obstacle_03_sewer-Sheet_6
+      name: obstacle_01_drunk_defeat-Sheet_4
       rect:
         serializedVersion: 2
         x: 192
         y: 0
-        width: 32
-        height: 32
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e88ce77093673450800000000000000
-      internalID: 6068428495043463395
+      spriteID: 0084901f00a76c520800000000000000
+      internalID: 2721997169254549504
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: obstacle_03_sewer-Sheet_7
+      name: obstacle_01_drunk_defeat-Sheet_5
       rect:
         serializedVersion: 2
-        x: 224
+        x: 240
         y: 0
-        width: 32
-        height: 32
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,8 +229,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fdb354748b1d9b4b0800000000000000
-      internalID: -5424073686791144481
+      spriteID: da57498082f9f6a60800000000000000
+      internalID: 7669523684726699437
       vertices: []
       indices: 
       edges: []

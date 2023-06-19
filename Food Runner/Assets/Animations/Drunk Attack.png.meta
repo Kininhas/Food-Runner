@@ -1,31 +1,25 @@
 fileFormatVersion: 2
-guid: 3270eb53761ce20458fc0464f32741fc
+guid: 49f163d1c51cd7c41a2c2e6c1745cb7c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1320727711999224410
-    second: obstacle_03_sewer-Sheet_0
+      213: -28442758872609510
+    second: obstacle_01_drunk_attack-Sheet_0
   - first:
-      213: 2672318455311475783
-    second: obstacle_03_sewer-Sheet_1
+      213: -6617939838578369998
+    second: obstacle_01_drunk_attack-Sheet_1
   - first:
-      213: 7219882808032338920
-    second: obstacle_03_sewer-Sheet_2
+      213: -3189572174871764307
+    second: obstacle_01_drunk_attack-Sheet_2
   - first:
-      213: 2271304592045827434
-    second: obstacle_03_sewer-Sheet_3
+      213: 1023591628178714667
+    second: obstacle_01_drunk_attack-Sheet_3
   - first:
-      213: 4167052078325741033
-    second: obstacle_03_sewer-Sheet_4
+      213: -2874658524352545633
+    second: obstacle_01_drunk_attack-Sheet_4
   - first:
-      213: 7396591735480620395
-    second: obstacle_03_sewer-Sheet_5
-  - first:
-      213: 6068428495043463395
-    second: obstacle_03_sewer-Sheet_6
-  - first:
-      213: -5424073686791144481
-    second: obstacle_03_sewer-Sheet_7
+      213: -8168761872181292597
+    second: obstacle_01_drunk_attack-Sheet_5
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -70,7 +64,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 132
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -116,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: obstacle_03_sewer-Sheet_0
+      name: obstacle_01_drunk_attack-Sheet_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 32
-        height: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a59549b425dbade0800000000000000
-      internalID: -1320727711999224410
+      spriteID: a1d47f42673fa9ff0800000000000000
+      internalID: -28442758872609510
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: obstacle_03_sewer-Sheet_1
+      name: obstacle_01_drunk_attack-Sheet_1
       rect:
         serializedVersion: 2
         x: 32
         y: 0
         width: 32
-        height: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -151,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 744af8ff97bf51520800000000000000
-      internalID: 2672318455311475783
+      spriteID: 23a51a8b7ca5824a0800000000000000
+      internalID: -6617939838578369998
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: obstacle_03_sewer-Sheet_2
+      name: obstacle_01_drunk_attack-Sheet_2
       rect:
         serializedVersion: 2
         x: 64
         y: 0
         width: 32
-        height: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,20 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e3a7bc492d223460800000000000000
-      internalID: 7219882808032338920
+      spriteID: da26c4b810d5cb3d0800000000000000
+      internalID: -3189572174871764307
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: obstacle_03_sewer-Sheet_3
+      name: obstacle_01_drunk_attack-Sheet_3
       rect:
         serializedVersion: 2
         x: 96
         y: 0
         width: 32
-        height: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a65ea991e7b458f10800000000000000
-      internalID: 2271304592045827434
+      spriteID: b20f7a0a927843e00800000000000000
+      internalID: 1023591628178714667
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: obstacle_03_sewer-Sheet_4
+      name: obstacle_01_drunk_attack-Sheet_4
       rect:
         serializedVersion: 2
         x: 128
         y: 0
         width: 32
-        height: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9e5b82989c754d930800000000000000
-      internalID: 4167052078325741033
+      spriteID: f9cfa6d7d492b18d0800000000000000
+      internalID: -2874658524352545633
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: obstacle_03_sewer-Sheet_5
+      name: obstacle_01_drunk_attack-Sheet_5
       rect:
         serializedVersion: 2
         x: 160
         y: 0
         width: 32
-        height: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,50 +229,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6599ed9ef8f5a660800000000000000
-      internalID: 7396591735480620395
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: obstacle_03_sewer-Sheet_6
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3e88ce77093673450800000000000000
-      internalID: 6068428495043463395
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: obstacle_03_sewer-Sheet_7
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fdb354748b1d9b4b0800000000000000
-      internalID: -5424073686791144481
+      spriteID: bc111e17b5ab2ae80800000000000000
+      internalID: -8168761872181292597
       vertices: []
       indices: 
       edges: []
